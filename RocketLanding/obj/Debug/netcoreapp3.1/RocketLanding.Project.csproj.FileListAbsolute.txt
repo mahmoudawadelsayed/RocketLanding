@@ -1,0 +1,9 @@
+C:\Users\mahmoud.awad\source\repos\RocketLanding\RocketLanding\bin\Debug\netcoreapp3.1\RocketLanding.Project.deps.json
+C:\Users\mahmoud.awad\source\repos\RocketLanding\RocketLanding\bin\Debug\netcoreapp3.1\RocketLanding.Project.dll
+C:\Users\mahmoud.awad\source\repos\RocketLanding\RocketLanding\bin\Debug\netcoreapp3.1\RocketLanding.Project.pdb
+C:\Users\mahmoud.awad\source\repos\RocketLanding\RocketLanding\obj\Debug\netcoreapp3.1\RocketLanding.Project.csprojAssemblyReference.cache
+C:\Users\mahmoud.awad\source\repos\RocketLanding\RocketLanding\obj\Debug\netcoreapp3.1\RocketLanding.Project.AssemblyInfoInputs.cache
+C:\Users\mahmoud.awad\source\repos\RocketLanding\RocketLanding\obj\Debug\netcoreapp3.1\RocketLanding.Project.AssemblyInfo.cs
+C:\Users\mahmoud.awad\source\repos\RocketLanding\RocketLanding\obj\Debug\netcoreapp3.1\RocketLanding.Project.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud.awad\source\repos\RocketLanding\RocketLanding\obj\Debug\netcoreapp3.1\RocketLanding.Project.dll
+C:\Users\mahmoud.awad\source\repos\RocketLanding\RocketLanding\obj\Debug\netcoreapp3.1\RocketLanding.Project.pdb
